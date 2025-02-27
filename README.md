@@ -3,16 +3,16 @@
 
 ---
 ### **<ins><p align="center">Feedback du serveur Semi-RP</p>**
-<p align="center">Retrouvez ici, tous les bugs remontés par les différents joueurs depuis le forum <b><a href="https://discord.com/channels/778624251833221120/1231767083172237373" target="_blank">Bugs</a></b> sur discord</p>
+<p align="center">Retrouvez ici, tous les bugs remontés par les différents joueurs depuis le forum <b><a href="https://discord.com/channels/778624251833221120/1231767083172237373">Bugs</a></b> sur discord</p>
 <p align="center"><img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/Orezia/SemiRP?style=for-the-badge"> <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-closed/Orezia/SemiRP?style=for-the-badge&color=red"></p>
 
 ---
 ### **<ins><p align="center">Liens Utiles :</p>**
 
-<p align="center">• 🪶 Site internet : <a href="https://oreziamc.fr" target="_blank">https://oreziamc.fr</a><br>
-• ⚙️ Support (Discord) : <a href="https://discord.oreziamc.fr" target="_blank">https://discord.oreziamc.fr</a><br>
-• 📖 WikOrezia (Wiki) : <a href="https://wiki.oreziamc.fr" target="_blank">https://wiki.oreziamc.fr</a><br>
-• 💎 Boutique : <a href="https://boutique.oreziamc.fr" target="_blank">https://boutique.oreziamc.fr</a><br>
-• 🗺️ DynMap : <a href="https://map.oreziamc.fr" target="_blank">https://map.oreziamc.fr</a></p>
+<p align="center">• 🪶 Site internet : <a href="https://oreziamc.fr">https://oreziamc.fr</a><br>
+• ⚙️ Support (Discord) : <a href="https://discord.oreziamc.fr">https://discord.oreziamc.fr</a><br>
+• 📖 WikOrezia (Wiki) : <a href="https://wiki.oreziamc.fr">https://wiki.oreziamc.fr</a><br>
+• 💎 Boutique : <a href="https://boutique.oreziamc.fr">https://boutique.oreziamc.fr</a><br>
+• 🗺️ DynMap : <a href="https://map.oreziamc.fr">https://map.oreziamc.fr</a></p>
 
 
