@@ -14,5 +14,3 @@
 • 💎 Boutique : <a href="https://boutique.oreziamc.fr">https://boutique.oreziamc.fr</a><br>
 • 📖 WikOrezia (Wiki) : <a href="https://wiki.oreziamc.fr">https://wiki.oreziamc.fr</a><br>
 • 🗺️ DynMap : <a href="https://map.oreziamc.fr">https://map.oreziamc.fr</a></p>
-
-
